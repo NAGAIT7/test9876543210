@@ -1,10 +1,12 @@
 package com.mycompany.app;
 
-
+/**
+ * Hello world!
+ */
 public class App
 {
 
-    private final String message = "Hello from Jenkins Project  - This is LbisTech DevOps Course! Our Pipeline is working perfectly fine";
+    private final String message = "Hello from Jenkins Project - This is LbisTech DevOps Course! Our Pipeline is working perfectly fine";
 
     public App() {}
 
@@ -17,3 +19,4 @@ public class App
     }
 
 }
+
